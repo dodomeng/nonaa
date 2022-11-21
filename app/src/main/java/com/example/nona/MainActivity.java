@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
             myDescription.setText(rDescription[position]);
 
 
-            return board;//앞에서 만든 xml 파일..
+            return board;//앞에서 만든 xml 파일....
         }
     }
 
